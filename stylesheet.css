@@ -1,0 +1,28 @@
+body {
+
+    background: rgb(229,129,46);
+    background: linear-gradient(90deg, rgba(229,129,46,1) 29%, rgba(220,210,210,1) 48%, rgba(33,210,65,1) 100%);
+}
+
+p {
+    padding-top: 200px;
+    font-size:50px;
+    text-align: center;
+    color:rgb(12, 12, 12);
+    
+}
+
+Button {
+     background-color: rgb(33, 116, 210);
+     border-color: rgb(33, 116, 210);
+     border-radius: 2px;
+     color: white;
+     position: absolute;
+     
+}
+div {
+    padding-top: 100px;
+    padding-left: 600px;
+    
+}
+
